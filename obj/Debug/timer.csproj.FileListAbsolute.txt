@@ -1,0 +1,12 @@
+c:\Users\CXO\documents\visual studio 2015\Projects\timer\timer\obj\Debug\timer.Properties.Resources.resources
+c:\Users\CXO\documents\visual studio 2015\Projects\timer\timer\obj\Debug\timer.csproj.GenerateResource.Cache
+C:\Users\CXO\Documents\Visual Studio 2015\Projects\timer\timer\obj\Debug\timer.AutoTime.resources
+C:\Users\CXO\Documents\Visual Studio 2015\Projects\timer\timer\obj\Debug\timer.AutoTime.yo.resources
+C:\Users\CXO\Documents\Visual Studio 2015\Projects\timer\timer\bin\Debug\AutoTimer.exe.config
+C:\Users\CXO\Documents\Visual Studio 2015\Projects\timer\timer\bin\Debug\AutoTimer.exe
+C:\Users\CXO\Documents\Visual Studio 2015\Projects\timer\timer\bin\Debug\AutoTimer.pdb
+C:\Users\CXO\Documents\Visual Studio 2015\Projects\timer\timer\bin\Debug\yo\AutoTimer.resources.dll
+C:\Users\CXO\Documents\Visual Studio 2015\Projects\timer\timer\obj\Debug\yo\AutoTimer.resources.dll
+C:\Users\CXO\Documents\Visual Studio 2015\Projects\timer\timer\obj\Debug\AutoTimer.exe
+C:\Users\CXO\Documents\Visual Studio 2015\Projects\timer\timer\obj\Debug\AutoTimer.pdb
+C:\Users\CXO\Documents\Visual Studio 2015\Projects\timer\timer\obj\Debug\timer.csprojResolveAssemblyReference.cache
